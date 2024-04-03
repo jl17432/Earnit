@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d52995f285a61142ad018b33e1dabb9, type: 3}
+  m_Name: Seed1
+  m_EditorClassIdentifier: 
+  wait: {fileID: -8520553723163835839, guid: 1a3b19074c0393f41afbe15b96e39268, type: 3}
+  grow: {fileID: 4597040313595929487, guid: 1a3b19074c0393f41afbe15b96e39268, type: 3}
+  reap: {fileID: 8299125880177946521, guid: 1a3b19074c0393f41afbe15b96e39268, type: 3}
+  growTime: 1
+  reapTime: 1
+  seedItem: {fileID: 11400000, guid: 3f0f329725676cf40bf1395095bfe2f7, type: 2}
+  fruitItem: {fileID: 11400000, guid: cc956aa44c6a9c3448bbf1f2081ecc71, type: 2}

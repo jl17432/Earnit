@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Soil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI_1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 86549451
+    locked: 0
+  - name: shadow
+    uniqueID: 1207040799
+    locked: 0
+  - name: building
+    uniqueID: 3434022169
+    locked: 0
+  - name: plants
+    uniqueID: 16605769
+    locked: 0
+  - name: foreground
+    uniqueID: 4110865551
+    locked: 0
+  - name: fore+
+    uniqueID: 3882228645
+    locked: 0
+  - name: ObjUI
+    uniqueID: 2648039381
+    locked: 0
